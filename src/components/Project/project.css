@@ -1,0 +1,55 @@
+.projectContainer{
+    display: flex;
+    margin: 2rem 0;
+}
+
+.LeftContainer{
+    /* background-color: blue; */
+    padding-left: 1rem;
+    padding-right: 5rem;
+    flex: 2
+}
+
+.LeftContainer > h3 {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+/* .wrap{
+    flex-wrap: wrap;
+} */
+
+.item-container{
+    /* width: 100%; */
+    margin-left: 3px;
+    background-color: #5ecda7;
+}
+
+.github{
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+    padding: 3px 5px;
+    background-color: #5ecda7;
+}
+
+.imgContainer{
+    flex: 1;
+}
+
+.img{
+    width: 100%;
+    overflow: hidden;
+}
+
+.mt-1{
+    margin-top: 1rem;
+}
+
+.mb-2{
+    margin-bottom: 2rem;
+}

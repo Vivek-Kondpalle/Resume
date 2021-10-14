@@ -1,0 +1,32 @@
+.flex{
+    display: flex;
+}
+
+.justify{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.margin-right{
+    margin-right: 2rem;
+}
+
+.mb-3{
+    margin-bottom: 3rem;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 0;
+    padding: 0
+}

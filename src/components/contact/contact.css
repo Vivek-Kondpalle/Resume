@@ -1,0 +1,23 @@
+.icons-contact{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.flex-contact{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnContainer{
+    background-color: #5ecda7;
+    padding: 1rem 2rem;
+}
+
+.btn{
+    border-width: 0;
+    background-color: #5ecda7;
+    font-size: large;
+}

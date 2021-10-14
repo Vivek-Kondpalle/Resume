@@ -1,0 +1,31 @@
+.aboutContainer{
+    /* background-color: aqua; */
+}
+
+.aboutInfo{
+    display: flex;
+    align-items: center;
+}
+
+.aboutInfo > p {
+    padding: 0 1rem;
+    font-size: 1.5rem;
+}
+
+.img{
+    width: 100%;
+    /* background-color: red; */
+    overflow: hidden;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.divider{
+    color: aqua;
+    
+}
